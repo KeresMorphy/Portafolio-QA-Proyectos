@@ -18,4 +18,4 @@ A continuación, se encuentran los detalles de mi experiencia en QA:
 | **Pruebas Exhaustivas de API y Backend** | Validación de Servicios de Backend (Kits y Costos) | Pruebas de API, Análisis de Valores Límite, Clases de Equivalencia | [Ver Documento](https://docs.google.com/document/d/1wLZzZWyBN2w1Z6fzG1jJHAGhfErAyamxVW5ygS4wPdU/edit?usp=sharing)|
 
 
-quita la tabla de enlace de documentacion pero solo eso
+
