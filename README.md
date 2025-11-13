@@ -2,23 +2,17 @@
 
 ¡Bienvenido a mi portafolio!
 
-Soy un(a) profesional de QA engineer centrado en el diseño de **pruebas funcionales y estratégicas**, y la optimización de procesos mediante el uso de metodologías como las Clases de Equivalencia y Valores Límite.
+Soy un profesional de QA engineer centrado en el diseño de **pruebas funcionales y estratégicas**, y la optimización de procesos mediante el uso de metodologías como las Clases de Equivalencia y Valores Límite.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-A continuación, se encuentran los detalles de mi experiencia en la aplicación **Urban Routes** (TripleTen LatAm):
+A continuación, se encuentran los detalles de mi experiencia en QA:
 
-| Proyecto | Enfoque Principal | Herramientas Clave | Enlace al Detalle |
-| :--- | :--- | :--- | :--- |
-| **Diseño de Pruebas Estratégicas** | Calidad de Datos y Lógica de Negocio | JIRA, Mapas Mentales, Clases de Equivalencia | [Ver Proyecto Estratégico](./Proyecto_Estrategico_Urban_Routes.md) |
-| **Diseño de Pruebas Funcionales** | Interfaz de Usuario, Zoom/Visualización 3D, Casos de Prueba | Excel, Casos de Prueba, Reporte de Defectos | [Ver Proyecto Funcional](./Proyecto_Funcional_Urban_Routes.md) |
-
----
-
-## 💡 Habilidades y Herramientas
-
-* **Diseño de Pruebas:** Pruebas Estratégicas, Pruebas Funcionales, Clases de Equivalencia, Valores Límite, Diagramas de Flujo, Mapas Mentales.
-* **Gestión de Defectos:** JIRA.
-* **Documentación:** Excel, Google Sheets, Markdown.
+| Proyecto | Enfoque Principal | Herramientas Clave | Enlace a la Documentación (Google Sheets/Docs) | Enlace al Detalle en GitHub |
+| :--- | :--- | :--- | :--- | :--- |
+| **Diseño de Pruebas Estratégicas (Urban Routes)** | Calidad de Datos y Lógica de Negocio | Clases de Equivalencia, Valores Límite, JIRA | [Ver Documento](https://docs.google.com/spreadsheets/d/1EX9LSA_.../edit?usp=sharing) | [Ver Proyecto Estratégico](./Proyecto_Estrategico_Urban_Routes.md) |
+| **Diseño de Pruebas Funcionales (Urban Routes)** | Interfaz de Usuario, Zoom y Visualización 3D | Casos de Prueba (Excel) | [Ver Documento](https://docs.google.com/spreadsheets/d/1LXRRHh.../edit?usp=sharing) | [Ver Proyecto Funcional](./Proyecto_Funcional_Urban_Routes.md) |
+| **Pruebas Funcionales Car-Sharing y Gestión Kanban** | Pruebas de Compatibilidad (Navegadores y Resolución) y Flujo de Trabajo | Kanban, JIRA, Chrome, Firefox | [Ver Documento](https://docs.google.com/document/d/1wLZZzWByBN.../edit?usp=sharing) | [Ver Proyecto Car-Sharing](./Proyecto_CarSharing_Kanban.md) |
+| **Pruebas Exhaustivas de API y Backend** | Validación de Servicios de Backend (Kits y Costos) | Pruebas de API, Análisis de Valores Límite, Clases de Equivalencia | [Ver Documento](https://docs.google.com/spreadsheets/d/1wZ_RQVHAi.../edit?usp=sharing) | [Ver Proyecto API Backend](./Proyecto_API_Backend.md) |
