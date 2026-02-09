@@ -1,4 +1,4 @@
-# 👩‍💻 Eduardo CG | Portafolio de Proyectos de Quality Assurance (QA)
+#  Eduardo CG | Portafolio de Proyectos de Quality Assurance (QA)
 
 ¡Bienvenido a mi portafolio!
 
